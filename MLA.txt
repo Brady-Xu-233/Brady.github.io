@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width">
+        <title>WEB SITE MLA PAGE</title>
+    </head>
+    <body>
+		<h1>MLA</h1>
+        <article>
+            <header>
+                <h2>Firearm informatin</h2>
+                <h3>2021-1-7</h3>
+            </header>
+            <section>
+                <p>https://baike.baidu.com/item/StG-44%E7%AA%81%E5%87%BB%E6%AD%A5%E6%9E%AA/19416761</p>
+                <p>https://baike.baidu.com/item/%E7%BB%8D%E6%B2%99M1915%E5%BC%8F8mm%E6%9C%BA%E6%9E%AA/2838981</p>
+                <p>https://baike.baidu.com/item/M1911%E6%89%8B%E6%9E%AA/1590215?fromtitle=M1911&fromid=3773351</p>
+                <p>https://baike.baidu.com/item/%E9%B2%81%E6%A0%BCP08%E6%89%8B%E6%9E%AA/6860790</p>
+                <p>https://baike.baidu.com/item/%E6%9D%8E-%E6%81%A9%E8%8F%B2%E5%B0%94%E5%BE%B7%E6%AD%A5%E6%9E%AA/10650751</p>
+                <p>https://baike.baidu.com/item/Kar98k%E6%AF%9B%E7%91%9F%E6%AD%A5%E6%9E%AA/1868434?fromtitle=KAR98K&fromid=9524733</p>
+                <p>https://baike.baidu.com/item/%E7%BB%8D%E6%B2%99M1915%E5%BC%8F8mm%E6%9C%BA%E6%9E%AA/2838981</p>
+            </section>
+        </article>
+    </body>
+</html>
+<header>
+<h2>picture</h2>
+<h3>2020-12-14</h3>
+</header>
+<section>
+<P>https://cn.bing.com/images/search?view=detailV2&ccid=s68%2b5oX0&id=9FA7F9996721DAB230FD8DB16D69D7098C1B07D5&thid=OIP.s68-5oX0nR_XC0dIByssTgHaEK&mediaurl=https%3a%2f%2fi0.hdslb.com%2fbfs%2farticle%2f3227e20c6ed513c27953c5548ef5c404217ebec7.jpg&exph=1080&expw=1920&q=%e6%88%98%e5%9c%b0%e4%ba%94&simid=607990021862919646&ck=4C3BBCDD862895088302A503A3AF01BE&selectedIndex=1&qft=+filterui%3aimagesize-large&FORM=IRPRST&ajaxhist=0</P>
+<p>https://tse1-mm.cn.bing.net/th/id/OIP.5VgpOEexGwIkGP9I1Sy1XQHaEK?w=313&h=180&c=7&o=5&dpr=1.2&pid=1.7</p>
+<p>https://tse3-mm.cn.bing.net/th/id/OIP.CDIFtxtXy7d3nVAKG1fDswHaEK?w=322&h=181&c=7&o=5&dpr=1.2&pid=1.7</p>
+<p>https://tse1-mm.cn.bing.net/th/id/OIP.twWIDelQZ6ZpKAiAwDbn0gHaEo?w=258&h=180&c=7&o=5&dpr=1.2&pid=1.7</p>
+<p>https://tse1-mm.cn.bing.net/th/id/OIP.9--KOChTW5p19TR3axuNTAAAAA?w=115&h=125&c=7&o=5&dpr=1.2&pid=1.7</p>
+<p>https://tse1-mm.cn.bing.net/th/id/OIP.V5P3ZXmf6Qq-Q83S64xgIAAAAA?w=173&h=129&c=7&o=5&dpr=1.2&pid=1.7</p>
+<p>https://tse1-mm.cn.bing.net/th/id/OIP.nw4hv76vP5t3dR67YHSMqgHaFa?w=166&h=128&c=7&o=5&dpr=1.2&pid=1.7</p>
+<p>https://tse1-mm.cn.bing.net/th/id/OIP.UZUWZYKjxHt0jegNSbvPowHaDk?w=295&h=168&c=7&o=5&dpr=1.2&pid=1.7</p>
+<p>https://tse1-mm.cn.bing.net/th/id/OIP.3JP0eamjfIAqfcC2Pkgu2wHaFj?w=249&h=187&c=7&o=5&dpr=1.2&pid=1.7</p>
+<p>https://tse2-mm.cn.bing.net/th/id/OIP.vcZa0gxAB9hZDCA6shfksAAAAA?w=182&h=122&c=7&o=5&dpr=1.2&pid=1.7</p>
+<p>https://tse1-mm.cn.bing.net/th/id/OIP.fYgyO8e3nfHwrQjUOK87qwAAAA?w=175&h=180&c=7&o=5&dpr=1.2&pid=1.7</p>
+
+</section>
+<article>
+</article>
+    <header>
+         <h2>other page </h2>
+         <h3>page "the firearms in game </h3>
+    </header>
+    <section>
+    <p>The information form Video game Battlefield 5</p>
+    <p>picture from Video game Battlefield 5</p>
+    <p></p>
+    </section>

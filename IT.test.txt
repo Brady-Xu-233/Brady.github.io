@@ -1,0 +1,329 @@
+1<body>
+
+<div id="header">
+<h1>7 firearms in video game Battlefield 5</h1>
+</div>
+
+<div id="nav">
+STG-44<br>
+Kar98k <br>
+Lee Enfield rifle<br>
+The Shausa M1915 8mm machine gun<br>
+M1911<br>
+MG-42 universal machine gun<br>
+Ruger P08<br>
+</div>
+
+<div id="section">
+<h1>STG-44</h1>
+<p>
+The STG-44 assault rifle was a mass-produced assault rifle produced by The German company Hennell and the German companies Mauser and Elmar at the end of World War II
+</p>
+<p>
+The gun must be reliable in sub-zero temperatures and desert conditions.
+
+· Must be able to tolerate a certain amount of dust and dirt.
+
+· The operating mechanism must be simple · It must be no heavier than the standard German bolt-action rifle Kar 98K (3.9kg) - preferably less. (However, this goal was not achieved.)
+
+· Its overall length must be shorter than Kar 98K (1100mm).
+
+· The weapon must be fully automatic and have a controlled recoil and rate of fire (recommended rate of fire: 350-400 rounds/min).
+
+· When semi-automatic shooting, accuracy must be guaranteed within 400 meters.
+
+· Effective range must reach 400 m for fully automatic firing · Grenade launcher adaptor required.
+
+
+</p>
+<img src=https://tse2-mm.cn.bing.net/th/id/OIP.atrGWir0Y3LWfS0MiktRqwAAAA?w=149&h=150&c=7&o=5&dpr=1.2&pid=1.7/>
+</div>
+
+<div id="section">
+<h1>Kar 98G</h1>
+<p>
+The Kar98k musket is a modified version of the Gewehr 98 rifle. It weighs about 4 kg and has an effective range of 500 meters. It was a standard rifle equipped by the German army during World War II. From 1935 to the end of World War II, it was the standard rifle of Nazi Germany. It was one of the largest production of light weapons during World War II.
+</p>
+<p>
+The basic information
+
+Origin: Germany
+
+Manufacturer: Mauser Arsenal
+
+Type: Manual rifle manual, single shot
+
+Operation mode: The mauser rotates back pull gun type
+
+Ammunition supply mode: 5 rounds of built-in ammunition compartment
+
+Weight: 3.9 kg (unloaded)
+
+Caliber: 7.92 mm
+
+Ammunition: 7.92×57mm rifle cartridge
+
+Length: 1100 mm
+
+Barrel length: 600 mm
+
+Rate of fire: approx. 15 rounds/min
+
+Muzzle velocity: 755 m/s
+
+Effective range: 800 m
+
+Sight: Curved gauge, V-notch lighting door, barley kernels (inverted V-shaped)
+
+Production period: 1935 -1945
+
+Quantity manufactured: 14.5 million units
+
+
+</p>
+<img src=https://tse4-mm.cn.bing.net/th/id/OIP.4hsC8HN6lYrjgfHO0YpB6AAAAA?w=148&h=150&c=7&o=5&dpr=1.2&pid=1.7/>
+</div>
+
+<div id="section">
+<h1>Lee Enfield rifle</h1>
+<p>
+The Lee-Enfield rifle is the manual rifle of the British army from 1896 to 1965. There are many variants. It is also the standard equipment of the British Commonwealth countries, including Canada, New Zealand, Australia, India and Spain.
+
+Lee - Enfield rifle launching 0.303 inch British calibre ammunition, replaced the British early Martini - Henry, the Martini - and Lee - Enfield rifle Metford, later replaced by L1A2 SLR in 1965, there were still a part of the commonwealth countries equipment, Lee - Enfield rifle produced more than 71 million cigarettes, second only to the AK gun, is the second largest in the production of the 20th century rifle.
+</p>
+<p>
+The basic information
+
+Operation: single dispatch manual
+
+Caliber: 0.303 in
+
+Ammunition: 0.303 inch R rifle cartridge (hence, the Lee Enfield rifle is also known as the "Yingqi").
+
+Magazine capacity: 5 rounds/magazine (double magazine)
+
+Weight: 8.8 pounds
+
+Full length: 1130 mm
+
+Barrel length: 640 mm
+
+Muzzle speed: 738 m/s
+
+Range: 1000 m
+
+</p>
+<img src=https://tse1-mm.cn.bing.net/th/id/OIP.nw4hv76vP5t3dR67YHSMqgHaFa?w=166&h=128&c=7&o=5&dpr=1.2&pid=1.7/>
+</div>
+
+<div id="section">
+<h1>The Shausa M1915 8mm machine gun</h1>
+<p>
+The Sauscha M1915 8mm machine gun was developed on the basis of the Type 1910 rifle by the French Weapon development team of Sauscha, Suttre, Ribeilol, and Gladatore. The gun was used to some extent during the First and second World Wars.
+</p>
+<p>
+The basic information
+Diameter -- 8 mm
+
+Velocity - 700 m/s
+
+Range of meter -2000m
+
+Rate of fire -250 rounds /min
+
+Automatic mode - long rear barrel type
+
+Locking mode -- nose rotary type
+
+Launch mode -- single and continuous
+
+Ammunition supply mode - half moon shaped magazine
+
+Bomb capacity -20 rounds
+
+The whole gun long
+
+1143mm
+
+Barrel - 469 mm long
+
+Rifling -4, right handed
+
+Full gun weight (excluding magazines, including bipod)- 9.07kg
+
+Aiming device --
+
+Aim - flake
+
+According to the door
+
+U-shaped notch
+
+Aiming baseline length -575mm
+
+Compatible with bullets -- Leber 8 x 50 mm bullets
+
+Ordinary play -
+
+Full bomb mass -27.8g
+
+Warhead mass -12.8g
+
+
+</p>
+<img src=https://tse1-mm.cn.bing.net/th/id/OIP.UZUWZYKjxHt0jegNSbvPowHaDk?w=295&h=168&c=7&o=5&dpr=1.2&pid=1.7/>
+</div>
+
+<div id="section">
+<h1>M1911</h1>
+<p>
+The M1911 (45 pistol) was a.45 ACP semi-automatic pistol produced in 1911. Designed by American John Browning, it became the standard pistol of the US Army immediately after its introduction and remained so for 74 years (1911 to 1985). M1911 was once a common battlefield weapon for the U.S. military, enduring World War I, World War II, the Korean War, the Vietnam War, and the Persian Gulf War.
+</p>
+<p>
+TThe basic information
+
+Ammunition used: (.45ACP). 45-inch Colt pistol cartridge
+
+Automatic mode: short rear barrel type
+
+Locking mode: Hinged barrel offset locking
+
+Launch mode: single action launch
+
+Full gun weight: 1.1kg (excluding magazines) 1.13kg (including empty magazines)
+
+Full gun length: 216mm
+
+Barrel length: 127mm Rifling six, right-handed
+
+Bound distance: 406 mm
+
+Load factor: 7 rounds
+
+Velocity: 253 m/s
+
+Muzzle kinetic energy: 477 J
+
+Combat rate of fire: 35 rounds /min
+
+Diameter: 0.45 in. (11.43mm)
+
+Warhead muzzle velocity: 247m/s
+
+Effective range: 50m
+
+Aiming baseline length: 160mm
+
+
+
+</p>
+<img src=https://tse2-mm.cn.bing.net/th/id/OIP.vcZa0gxAB9hZDCA6shfksAAAAA?w=161&h=122&c=7&o=5&dpr=1.2&pid=1.7/>
+</div>
+
+<div id="section">
+<h1>MG-42 universal machine gun</h1>
+<p>
+Mg-42 General purpose Machine gun, short for German Maschinengewehr 42, meaning "Machine gun 1942" (" Maschinen "is" Machine "; "Gewehr" is "rifle"). The most prominent feature is the speed of fire, known as "Hitler's chainsaw."
+
+The MG-42 general-purpose machine gun was developed and put into service by Nazi Germany in 1942, basically based on the weapon using 7.92×57mm Mauser rifle as the basis of development, and was prepared to replace the MG34 general-purpose machine gun. However, the two machine guns were used together until the end of the war.
+</p>
+<p>
+The basic information
+
+Pointing device
+
+The gun uses a mechanical sight, the sight is composed of a curved gauge and a sight, the sight and the gate can be folded, in the photo is a conventional sight, on the left can be seen testing tracer shot or according to the range of the extended needle sight.
+
+ammunition
+
+The gun uses a German or Polish 7.92 x 57mm Mauser rifle cartridge.
+
+ammunition
+
+Ordinary rounds are most often used, but armour-piercing rounds (APS) can also be loaded against light vehicles.
+
+staffing
+
+The LMG is made up of three men: observers, shooters and loaders. It uses the MG42, a bipod that can be moved quickly and carries little ammunition. During the assault, the MG42 of the LIGHT machine gun group can quickly change into 75 round assault drums and continue to provide fire support for the squad members. The medium machine gun group and the heavy machine gun group are composed of four or five members, using triangular adjustable brackets and generally not equipped with assault drums.
+</p>
+<img src=https://tse1-mm.cn.bing.net/th/id/OIP.kG1ZR8dZsOE7AAKnSwmOEQAAAA?w=199&h=199&c=7&o=5&dpr=1.2&pid=1.7/>
+</div>
+
+<div id="section">
+<h1>Ruger P08</h1>
+<p>
+The Ruger P08 is an improved version of the HugoBorchardt pistol developed by George Ruger in 1900. The experimental product was successfully developed in 1899. It was the world's first standard military semi-automatic pistol (adopted by Sweden) and began production in 1900.
+
+Since then, continuous reforms have been carried out. The Rugg P08 was selected as the German Parabellum08(the 'P' stands for Pistole) in 1908, and was used in the German Parabellum08 as a standard self-defense weapon for 30 years.
+</p>
+<p>
+The basic information
+
+The whole gun long
+
+220mm
+
+Aiming base line length
+
+196mm
+
+Full gun mass (empty magazine)
+
+890g
+
+The barrel length
+
+102mm
+
+To play with
+
+Magazine from 8
+
+Play the drum 32
+
+
+
+</p>
+<img src=https://tse3-mm.cn.bing.net/th/id/OIP.XC6UCLxFU2ww_Jv80NonIQAAAA?w=194&h=132&c=7&o=5&dpr=1.2&pid=1.7/>
+</div>
+<h1> <a href="journal.html">Go to next page </a></h1>
+<h1> <a href="home%20-%20%E5%89%AF%E6%9C%AC.html">home</a></h1>
+    <h1> <a href="MLA.html">MLA</a></h1>
+
+
+
+
+
+<div id="footer">
+Battlefield firearms.com.cn
+</div>
+
+</body>
+<style>
+#header {
+    background-color:red;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px; 
+}
+#section {
+    width:350px;
+    float:left;
+    padding:10px; 
+}
+#footer {
+    background-color:red;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
+</style>
